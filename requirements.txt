@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+youtube-transcript-api==0.6.2
+numpy
+openai-whisper
+pytube
+yt-dlp
